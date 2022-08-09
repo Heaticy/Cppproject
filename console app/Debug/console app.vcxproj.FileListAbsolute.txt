@@ -1,0 +1,2 @@
+F:\文件\console app\Debug\console app.exe
+F:\文件\console app\Debug\console app.pdb
